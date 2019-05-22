@@ -1,0 +1,53 @@
+body {
+    max-width: 600px;
+    margin: auto;
+    background-color: coral;
+}
+
+.field {
+    display: flex;
+    flex-direction: row;
+    margin: 5px 0;
+  
+}
+
+.field label {
+    width: 100px;
+}
+
+.field div {
+    width: 100%;
+}
+
+.field input[type="text"] {
+    width: 100%;
+    padding: 10px 0;
+}
+
+ input[type="date"] {
+    width: 100%;
+    padding: 10px 0;
+}
+input[type="time"] {
+    width: 100%;
+    padding: 10px 0;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px 0;
+}
+
+button{
+    padding: 20px;
+    width: 50%;
+    background-color: crimson;
+    color: aliceblue;
+    text-shadow: 5px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+}
+.message{
+    
+}
